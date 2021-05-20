@@ -81,7 +81,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "proxy": "https://backend-chat-react-app.herokuapp.com/",
+  "proxy": "http://localhost:3003",
   "browserslist": [
     ">0.2%",
     "not dead",
